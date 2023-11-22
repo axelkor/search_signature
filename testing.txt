@@ -1,0 +1,12 @@
+Socket, socket, what are you?
+You are created for communication.
+IPv4 or IPv6 - it doesn't matter,
+You will connect us for sure.
+socket.AF_INET
+These two lines are the foundation,
+Without them there will be no connection.
+IPv4 is an address,
+SOCK_STREAM is a protocol.
+socket.SOCK_STREAM
+Connect us, socket, please,
+So that we can communicate.
